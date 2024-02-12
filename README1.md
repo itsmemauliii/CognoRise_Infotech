@@ -24,10 +24,6 @@ Jupyter Notebook: View the code and analysis in the Jupyter Notebook here.
 
 Data: Access the dataset used for analysis https://www.kaggle.com/datasets/arshid/iris-flower-dataset.
 
-Model: Explore the trained classification model.
-
-Deployment: This model can be deployed as a web application or integrated into other applications.
-
 Python libraries used: pandas, NumPy, scikit-learn, matplotlib, seaborn
 
 Contributors:-
