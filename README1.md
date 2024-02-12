@@ -8,6 +8,12 @@ Challenge Overview:-
 
 In this challenge, the goal is to classify Iris flower species based on their morphologic features such as petal and sepal dimensions.
 
+Algorithms Used:-
+
+-Support Vector Machine
+-K-Nearest Neighbour
+-Decision Tree
+
 Dataset:-
 
 The dataset used for this analysis contains 150 records of Iris flowers, with 5 attributes: Petal Length, Petal Width, Sepal Length, Sepal Width, and Class (Species).
@@ -20,7 +26,7 @@ Interactive Content:-
 
 You can interact with the analysis and predictive model using the following resources:-
 
-Jupyter Notebook: View the code and analysis in the Jupyter Notebook here.
+Jupyter Notebook: View the code and analysis in the Jupyter Notebook http://localhost:8888/notebooks/Task2.ipynb#.
 
 Data: Access the dataset used for analysis https://www.kaggle.com/datasets/arshid/iris-flower-dataset.
 
