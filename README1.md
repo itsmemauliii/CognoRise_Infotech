@@ -11,7 +11,9 @@ In this challenge, the goal is to classify Iris flower species based on their mo
 Algorithms Used:-
 
 -Support Vector Machine
+
 -K-Nearest Neighbour
+
 -Decision Tree
 
 Dataset:-
