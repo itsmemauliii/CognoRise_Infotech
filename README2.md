@@ -29,11 +29,11 @@ You can interact with the analysis and predictive models using the following res
 
 ## Python Libraries Used
 
-- pandas
+- Pandas
 - NumPy
-- scikit-learn
-- matplotlib
-- seaborn
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
 ## Contributors
 
