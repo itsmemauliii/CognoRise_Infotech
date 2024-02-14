@@ -24,7 +24,7 @@ In this project, we explore the dataset to identify patterns and relationships b
 
 You can interact with the analysis and predictive models using the following resources:
 
-- Jupyter Notebook: View the code and analysis in the Jupyter Notebook Car_Price_Prediction.ipynb.
+- Jupyter Notebook: View the code and analysis in the Jupyter Notebook http://localhost:8888/notebooks/Car_Price_Prediction.ipynb.
 - Dataset: Access the dataset used for analysis https://www.kaggle.com/datasets/goyalshalini93/car-data.
 
 ## Python Libraries Used
