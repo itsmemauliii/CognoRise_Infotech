@@ -24,4 +24,20 @@ Researchers, data scientists, journalists, educators, and policymakers can utili
 Developing machine learning algorithms for fake news detection.
 Conducting empirical studies on the prevalence and impact of fake news.
 Creating educational materials and resources for media literacy programs.
+
+Interactive Content:-
+
+You can interact with the analysis and predictive model using the following resources:-
+
+Jupyter Notebook: View the code and analysis in the Jupyter Notebook http://localhost:8888/notebooks/Fake_News_Prediction.ipynb.
+
+Data: Access the dataset used for analysis https://www.kaggle.com/datasets/rajatkumar30/fake-news.
+
+Python libraries used: pandas, NumPy, scikit-learn, matplotlib, seaborn
+
+Contributors:-
+
+https://github.com/itsmemauliii
+
+Feel free to contribute, provide feedback, or suggest improvements!
 Informing public policy initiatives aimed at addressing misinformation.
