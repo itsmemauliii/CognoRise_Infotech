@@ -1,4 +1,4 @@
-# CognoRise_Infotech
+## CognoRise InfoTech
 
 Iris Flower Species Classification
 
